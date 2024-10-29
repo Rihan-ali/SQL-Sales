@@ -1,5 +1,5 @@
 select  * from ecomerce.sellers;
-#Basic Queries
+
 #1. List all unique cities where customers are located.
 select distinct customer_city from ecomerce.customers;
 
